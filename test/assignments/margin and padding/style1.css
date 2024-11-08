@@ -1,0 +1,35 @@
+body{
+    max-width: 600px;
+    margin: 0 auto;
+}
+.one{
+    padding: 50px;
+    border: 4px solid;
+    border-color: blue;
+    border-radius: 10px;
+    background-color: lightpink;
+    margin: 10px 30px 10px 30px;
+}
+.two{
+    /* padding: px; */
+    border: 4px solid;
+    /* padding: 1px; */
+    background-color: lightblue;
+    border-color: brown;
+    padding-left: 4px;
+    border-radius: 10px;
+
+    margin-bottom: 50px;
+    /* box-sizing: border-box; */
+
+}
+.three{
+    padding: 50px;
+    border: 4px solid;
+    background-color: rgb(247, 183, 65);
+    border-color: brown;
+    margin-left: auto;
+    width: 200px;
+    border-radius: 10px;
+    
+}
